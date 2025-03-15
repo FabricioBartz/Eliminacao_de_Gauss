@@ -56,7 +56,7 @@ unsafe fn inicializar_matriz(n: usize) {
 
 // Implementação da eliminação de Gauss
 unsafe fn eliminacao_gaussiana(n: usize) {
-    println!("Executando eliminação de Gauss...");
+    println!("Executando eliminação de Gauss para uma matriz de dimensão {}...", n);
     
     // Etapa de eliminação
     for norm in 0..(n - 1) {
