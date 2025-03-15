@@ -39,7 +39,8 @@ fn main() {
     unsafe {
         exibir_resultado(n);
     }
-    println!("Tempo de execução: {:.3?} ms", duracao.as_millis());
+    let duracao_ms = duracao.as_secs_f64() * 1000.0;
+    println!("Tempo de execução: {:.3} ms", duracao_ms);
 }
 
 // Função para inicializar a matriz A e vetor B com valores aleatórios
