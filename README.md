@@ -59,7 +59,7 @@ Para verificar se o Rust está instalado:
 
 3. Execute o comando abaixo, substituindo `"numero da matriz"` pelo valor desejado para a dimensão da matriz (um número de 1 a 2000):
    ```bash
-./gauss.exe <numero da matriz>
+   ./gauss.exe <numero da matriz>
 
 Nomes:
 Arthur Soares Alves,
