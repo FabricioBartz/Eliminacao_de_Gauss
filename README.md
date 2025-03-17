@@ -48,7 +48,7 @@ Para verificar se o Rust está instalado:
 # C
 
 ## Pré-requisitos
-1.Certifique-se que sua máquina possui um compilador instalado. (exemplos: MinGW, MSYS2, TDM-GCC)
+- Certifique-se que sua máquina possui um compilador instalado. (exemplos: MinGW, MSYS2, TDM-GCC)
 
 ### Para rodar o algoritmo, siga os seguintes passos:
 1. Certifique-se de estar na pasta correta onde o projeto Rust está localizado.
@@ -57,7 +57,8 @@ Para verificar se o Rust está instalado:
    ```bash
    gcc gauss.c -o gauss.exe
 
-4. Execute o comando abaixo, substituindo `"numero da matriz"` pelo valor desejado para a dimensão da matriz (um número de 1 a 2000):
+3. Execute o comando abaixo, substituindo `"numero da matriz"` pelo valor desejado para a dimensão da matriz (um número de 1 a 2000):
+   ```bash
 ./gauss.exe <numero da matriz>
 
 Nomes:
