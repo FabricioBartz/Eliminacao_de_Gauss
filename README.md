@@ -49,4 +49,4 @@ Nomes:
 Arthur Soares Alves,
 Artur Pieper Gruppelli,
 Fabricio Fiss Bartz,
-Victor dos Santos Reis,
+Victor dos Santos Reis.
