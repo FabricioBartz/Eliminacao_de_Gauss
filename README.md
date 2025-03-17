@@ -45,7 +45,7 @@ Para verificar se o Rust está instalado:
    cargo run <numero da matriz>
 
 -------------------------------------------------------------------------------------------------
-Nomes:
+Integrantes:
 Arthur Soares Alves,
 Artur Pieper Gruppelli,
 Fabricio Fiss Bartz,
