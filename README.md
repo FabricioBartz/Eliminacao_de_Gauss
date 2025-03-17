@@ -49,8 +49,10 @@ Para verificar se o Rust está instalado:
 
 ## Pré-requisitos
 1.Certifique-se que sua máquina possui um compilador instalado. (exemplos: MinGW, MSYS2, TDM-GCC)
-2. Certifique-se de estar na pasta correta onde o projeto Rust está localizado.
-2. Abra o terminal e execute o comando:
+
+### Para rodar o algoritmo, siga os seguintes passos:
+1. Certifique-se de estar na pasta correta onde o projeto Rust está localizado.
+2. No terminal execute o comando:
 
    ```bash
    gcc gauss.c -o gauss.exe
