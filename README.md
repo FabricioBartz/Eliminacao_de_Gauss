@@ -45,8 +45,21 @@ Para verificar se o Rust está instalado:
    cargo run <numero da matriz>
 
 -------------------------------------------------------------------------------------------------
-**Integrantes:**
+# C
+
+## Pré-requisitos
+1.Certifique-se que sua máquina possui um compilador instalado. (exemplos: MinGW, MSYS2, TDM-GCC)
+2. Certifique-se de estar na pasta correta onde o projeto Rust está localizado.
+2. Abra o terminal e execute o comando:
+
+   ```bash
+   gcc gauss.c -o gauss.exe
+
+4. Execute o comando abaixo, substituindo `"numero da matriz"` pelo valor desejado para a dimensão da matriz (um número de 1 a 2000):
+./gauss.exe <numero da matriz>
+
+Nomes:
 Arthur Soares Alves,
 Artur Pieper Gruppelli,
 Fabricio Fiss Bartz,
-Victor dos Santos Reis.
+Victor dos Santos Reis,
