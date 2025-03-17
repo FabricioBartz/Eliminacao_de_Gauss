@@ -46,7 +46,7 @@ Para verificar se o Rust está instalado:
 
 -------------------------------------------------------------------------------------------------
 Nomes:
-Arthur Soares Alves
-Artur Pieper Gruppelli
-Fabricio Fiss Bartz
-Victor dos Santos Reis
+Arthur Soares Alves,
+Artur Pieper Gruppelli,
+Fabricio Fiss Bartz,
+Victor dos Santos Reis,
