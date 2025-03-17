@@ -51,7 +51,7 @@ Para verificar se o Rust está instalado:
 - Certifique-se que sua máquina possui um compilador instalado. (exemplos: MinGW, MSYS2, TDM-GCC)
 
 ### Para rodar o algoritmo, siga os seguintes passos:
-1. Certifique-se de estar na pasta correta onde o projeto Rust está localizado.
+1. Certifique-se de estar na pasta correta onde o projeto C está localizado.
 2. No terminal execute o comando:
 
    ```bash
